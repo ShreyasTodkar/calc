@@ -11,5 +11,7 @@ public static void main(String[] arg)
 	addition = n1 + n2;
 	system.out.println("The addition is: " + addition);
 
+	int suntraction = n1 - n2;
+	system.out.println("The subtraction reult is: " + subtraction);
 	sc.close();
 }
